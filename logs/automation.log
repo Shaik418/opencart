@@ -1,0 +1,231 @@
+15:09:50.771 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+15:09:55.430 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:09:55.491 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:09:56.170 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:09:56.284 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:09:56.363 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:09:56.404 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:09:58.542 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on logout Valid
+15:09:58.546 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:09:58.563 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:09:58.594 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:09:59.104 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:09:59.195 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:09:59.268 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:09:59.296 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:10:09.549 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:10:09.584 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:10:10.404 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:10:10.492 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:10:10.558 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:10:10.578 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:10:20.752 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:10:20.791 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:10:21.359 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:10:21.458 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:10:21.542 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:10:21.569 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:10:31.819 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:10:31.845 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:10:32.809 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:10:32.899 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:10:32.964 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:10:32.992 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:10:44.078 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Browser closed
+15:48:41.666 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+15:48:51.451 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:48:51.745 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:48:52.948 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:48:53.275 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:48:53.365 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:48:53.426 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:48:55.684 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on logout Valid
+15:48:55.686 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:48:55.715 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:48:55.739 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:48:56.305 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:48:56.415 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:48:56.494 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:48:56.524 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:49:06.881 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:49:06.921 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:49:07.385 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:49:07.485 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:49:07.557 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:49:07.584 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:49:17.839 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:49:17.866 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:49:18.360 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:49:18.452 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:49:18.523 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:49:18.551 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:49:28.775 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+15:49:28.804 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+15:49:29.124 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:49:29.209 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+15:49:29.275 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+15:49:29.302 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+15:49:40.189 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Browser closed
+15:57:30.260 [main] INFO  testCases.TC_001_AccountRegistrationTest - Chrome Browser started
+15:57:39.489 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************** Starting TC_001_AccountRegistrantionTest ****************
+15:57:39.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - My account clicked
+15:57:41.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register clicked
+15:57:41.448 [main] INFO  testCases.TC_001_AccountRegistrationTest - User name entered
+15:57:41.537 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last name entered
+15:57:41.621 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered G-mail
+15:57:41.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password
+15:57:41.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+15:57:41.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue button
+15:57:43.957 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed
+15:57:43.957 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************** Completed TC_001_AccountRegistrantionTest ****************
+15:57:44.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - Browser closed
+15:57:47.429 [main] INFO  testCases.TC_002_LoginPageTest - Chrome Browser started
+15:57:50.995 [main] INFO  testCases.TC_002_LoginPageTest - **************** Starting TC_002_LoginPageTest ****************
+15:57:51.037 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on my account
+15:57:52.017 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on login
+15:57:52.136 [main] INFO  testCases.TC_002_LoginPageTest - Enterd email
+15:57:52.214 [main] INFO  testCases.TC_002_LoginPageTest - Enterd password
+15:57:52.244 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on Login
+15:57:53.680 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on logout
+15:57:53.680 [main] INFO  testCases.TC_002_LoginPageTest - **************** Finished TC_002_LoginPageTest ****************
+15:57:53.827 [main] INFO  testCases.TC_002_LoginPageTest - Browser closed
+17:53:37.849 [main] INFO  testCases.TC_001_AccountRegistrationTest - Chrome Browser started
+17:53:42.980 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************** Starting TC_001_AccountRegistrantionTest ****************
+17:53:43.137 [main] INFO  testCases.TC_001_AccountRegistrationTest - My account clicked
+17:53:44.919 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register clicked
+17:53:45.241 [main] INFO  testCases.TC_001_AccountRegistrationTest - User name entered
+17:53:45.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last name entered
+17:53:45.566 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered G-mail
+17:53:45.684 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password
+17:53:45.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+17:53:45.860 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue button
+17:53:50.067 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed
+17:53:50.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************** Completed TC_001_AccountRegistrantionTest ****************
+17:53:51.018 [main] INFO  testCases.TC_001_AccountRegistrationTest - Browser closed
+17:53:53.405 [main] INFO  testCases.TC_002_LoginPageTest - Chrome Browser started
+17:53:57.651 [main] INFO  testCases.TC_002_LoginPageTest - **************** Starting TC_002_LoginPageTest ****************
+17:53:57.851 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on my account
+17:53:59.240 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on login
+17:53:59.489 [main] INFO  testCases.TC_002_LoginPageTest - Enterd email
+17:53:59.609 [main] INFO  testCases.TC_002_LoginPageTest - Enterd password
+17:53:59.656 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on Login
+17:54:03.152 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on logout
+17:54:03.152 [main] INFO  testCases.TC_002_LoginPageTest - **************** Finished TC_002_LoginPageTest ****************
+17:54:03.543 [main] INFO  testCases.TC_002_LoginPageTest - Browser closed
+17:54:33.480 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+17:54:41.766 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:54:41.907 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:54:43.160 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+17:54:43.385 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+17:54:43.525 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+17:54:43.636 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+17:54:54.102 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:54:54.173 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:55:04.834 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:55:04.900 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:55:15.400 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:55:15.437 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:55:25.868 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:55:25.906 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:55:36.664 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Browser closed
+17:58:01.626 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+17:58:27.963 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:58:28.127 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:58:30.451 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+17:58:30.716 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+17:58:30.844 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+17:58:30.911 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+17:58:41.735 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:58:41.874 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:58:52.395 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:58:52.430 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:59:02.821 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:59:02.885 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:59:13.457 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+17:59:13.507 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+17:59:24.505 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Browser closed
+18:01:10.755 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+18:01:18.082 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:01:18.208 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:01:19.339 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:01:19.564 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:01:19.723 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:01:19.803 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:01:30.292 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:01:30.364 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:01:41.009 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:01:41.064 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:01:51.554 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:01:51.600 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:02:02.254 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:02:02.289 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:02:13.235 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Browser closed
+18:04:05.650 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+18:04:11.939 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:04:12.083 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:04:13.376 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:04:13.624 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:04:13.775 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:04:13.838 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:04:26.256 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:04:26.314 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:06:46.406 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+18:06:53.479 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:06:53.620 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:06:54.756 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:06:55.047 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:06:55.174 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:06:55.226 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:07:07.665 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:07:07.731 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:14:19.342 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+18:14:27.046 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:14:27.189 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:14:27.851 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:14:28.068 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:14:28.225 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:14:28.288 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:14:38.755 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:14:38.884 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:14:39.749 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:14:40.071 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:14:40.176 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:14:40.225 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:14:50.665 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:14:50.712 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:14:51.339 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:14:51.517 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:14:51.673 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:14:51.725 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:15:02.031 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:15:02.127 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:15:03.293 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:15:03.409 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:15:03.546 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:15:03.601 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:15:14.140 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:15:14.174 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:15:14.790 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:15:14.946 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:15:15.133 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:15:15.183 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:15:27.817 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Browser closed
+18:16:54.897 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Chrome Browser started
+18:17:02.278 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:17:02.443 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:17:04.049 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:17:04.296 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:17:04.444 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:17:04.501 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:17:15.020 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:17:15.149 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:17:16.477 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:17:16.660 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:17:16.789 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:17:16.833 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:17:27.183 [main] INFO  testCases.TC_003_LoginDataDrivenTest - **************** TC_003_LoginDataDrivenTest Started ****************
+18:17:27.227 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on my account
+18:17:28.046 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+18:17:28.376 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
+18:17:28.494 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
+18:17:28.536 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
