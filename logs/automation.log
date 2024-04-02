@@ -229,3 +229,30 @@
 18:17:28.376 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered username
 18:17:28.494 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Entered password
 18:17:28.536 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Clicked on login
+02:33:17.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - Chrome Browser started
+02:33:20.714 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************** Starting TC_001_AccountRegistrantionTest ****************
+02:33:20.865 [main] INFO  testCases.TC_001_AccountRegistrationTest - My account clicked
+02:33:22.257 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register clicked
+02:33:32.780 [main] INFO  testCases.TC_001_AccountRegistrationTest - Browser closed
+02:33:34.007 [main] INFO  testCases.TC_002_LoginPageTest - Chrome Browser started
+02:33:37.596 [main] INFO  testCases.TC_002_LoginPageTest - **************** Starting TC_002_LoginPageTest ****************
+02:33:38.204 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on my account
+02:33:39.532 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on login
+02:33:50.732 [main] INFO  testCases.TC_002_LoginPageTest - Browser closed
+03:20:01.301 [main] INFO  testCases.TC_003_SearchText - Chrome Browser started
+03:20:07.810 [main] INFO  testCases.TC_003_SearchText - Browser closed
+03:23:44.126 [main] INFO  testCases.TC_003_SearchText - Chrome Browser started
+03:23:47.730 [main] INFO  testCases.TC_003_SearchText - ************ TC_003_SearchText started ************
+03:23:49.894 [main] INFO  testCases.TC_003_SearchText - Browser closed
+03:25:29.196 [main] INFO  testCases.TC_003_SearchText - Chrome Browser started
+03:25:32.503 [main] INFO  testCases.TC_003_SearchText - ************ TC_003_SearchText started ************
+03:25:32.700 [main] INFO  testCases.TC_003_SearchText - entered text in searchBox
+03:25:34.854 [main] INFO  testCases.TC_003_SearchText - clicked on search
+03:25:34.934 [main] INFO  testCases.TC_003_SearchText - ************ TC_003_SearchText finished ************
+03:25:35.355 [main] INFO  testCases.TC_003_SearchText - Browser closed
+14:51:20.693 [main] INFO  testCases.TC_003_SearchText - Chrome Browser started
+14:51:42.561 [main] INFO  testCases.TC_003_SearchText - ************ TC_003_SearchText started ************
+14:51:43.052 [main] INFO  testCases.TC_003_SearchText - entered imac text in searchBox
+14:51:45.425 [main] INFO  testCases.TC_003_SearchText - clicked on search
+14:51:45.586 [main] INFO  testCases.TC_003_SearchText - ************ TC_003_SearchText finished ************
+14:51:46.183 [main] INFO  testCases.TC_003_SearchText - Browser closed

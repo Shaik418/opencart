@@ -19,6 +19,14 @@ public class AccountRegistrationPage extends BasePage {
 	@FindBy(id="input-email") WebElement txtEmail;
 	@FindBy(id="input-password") WebElement txtPassword;
 	
+	@FindBy(name="search") WebElement searchbox;
+	
+	@FindBy(xpath="//div[@id='search']//button") WebElement btnSearch;
+	
+	@FindBy(xpath="//div[@class='description']//a") WebElement resultText;
+	
+	@FindBy(xpath="//div[@id='product-list']") WebElement resultListMac;
+	
 	
 	
 	JavascriptExecutor js =  (JavascriptExecutor)driver;
@@ -65,6 +73,18 @@ public class AccountRegistrationPage extends BasePage {
 		}catch(Exception e) {
 			return (e.getMessage());
 		}
+	}
+	
+	public void enterImac() {
+		searchbox.sendKeys("iMac");
+	}
+	
+	public void clickSearchBtn() {
+		js.executeScript("arguments[0].click();", btnSearch);
+	}
+	public boolean resultDisplayed() {
+		boolean text= resultText.isDisplayed();
+		return text;
 	}
 
 	

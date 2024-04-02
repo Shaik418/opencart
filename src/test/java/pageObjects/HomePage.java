@@ -17,6 +17,14 @@ public class HomePage extends BasePage
 	
 	@FindBy(xpath="//a[text()='Login']") WebElement linkLogin;
 	
+	@FindBy(name="search") WebElement searchbox;
+	
+	@FindBy(xpath="//div[@id='search']//button") WebElement btnSearch;
+	
+	@FindBy(xpath="//div[@class='description']//a") WebElement resultText;
+	
+	@FindBy(xpath="//div[@id='product-list']") WebElement resultListMac;
+	
 	JavascriptExecutor js=(JavascriptExecutor)driver;
 	
 	public void ClickMyaccount()

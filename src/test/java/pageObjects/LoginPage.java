@@ -1,6 +1,5 @@
 package pageObjects;
 
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -13,12 +12,14 @@ public class LoginPage extends BasePage{
 		super(driver);
 	}
 	
-		@FindBy(id="input-email") WebElement txtEmail;
-		@FindBy(id = "input-password") WebElement txtPassword;
+		@FindBy(id="input-email") WebElement txtEmail;	//email
+		@FindBy(id = "input-password") WebElement txtPassword;	//password
 		
-		@FindBy(xpath="//div[@class='text-end']/button[text()='Login']") WebElement btnLogin;
+		@FindBy(xpath="//div[@class='text-end']/button[text()='Login']") WebElement btnLogin; //login
 		
-		@FindBy(xpath="//button[@class='btn-close']") WebElement alert;
+		@FindBy(xpath="//button[@class='btn-close']") WebElement alert; //warning button close 
+		
+		
 		
 		 
 		
@@ -44,6 +45,7 @@ public class LoginPage extends BasePage{
 			boolean al= alert.isDisplayed();
 			return al;
 		}
+		
 		
 		
 		
