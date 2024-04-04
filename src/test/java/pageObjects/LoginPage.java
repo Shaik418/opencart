@@ -17,7 +17,9 @@ public class LoginPage extends BasePage{
 		
 		@FindBy(xpath="//div[@class='text-end']/button[text()='Login']") WebElement btnLogin; //login
 		
-		@FindBy(xpath="//button[@class='btn-close']") WebElement alert; //warning button close 
+		@FindBy(xpath="//button[@class='btn-close']") WebElement alert; //warning button close
+		
+		@FindBy(xpath="//div[@id='alert']//dirv") WebElement alertTxt;
 		
 		
 		
@@ -42,9 +44,11 @@ public class LoginPage extends BasePage{
 			js.executeScript("arguments[0].click();", alert);
 		}
 		public boolean alertDisplayed() {
-			boolean al= alert.isDisplayed();
+			boolean al= alertTxt.isDisplayed();
 			return al;
 		}
+		
+		
 		
 		
 		
