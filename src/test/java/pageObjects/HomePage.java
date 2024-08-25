@@ -1,5 +1,7 @@
 package pageObjects;
 
+import java.util.List;
+
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -25,6 +27,8 @@ public class HomePage extends BasePage
 	
 	@FindBy(xpath="//div[@id='product-list']") WebElement resultListMac;
 	
+	@FindBy(xpath="//div[@class=\"description\"]//a") List<WebElement> searchList;
+	
 	JavascriptExecutor js=(JavascriptExecutor)driver;
 	
 	public void ClickMyaccount()
@@ -39,6 +43,13 @@ public class HomePage extends BasePage
 	
 	public void ClickLogin() {
 		js.executeScript("arguments[0].click();", linkLogin);
+	}
+	
+	public List<WebElement> ListOfElements(){
+		
+		return searchList;
+		
+		
 	}
 
 }

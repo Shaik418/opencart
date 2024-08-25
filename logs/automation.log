@@ -474,3 +474,40 @@
 16:44:11.275 [main] INFO  testCases.TC_004_LoginFailTest - clicked on my account
 16:44:19.766 [main] INFO  testCases.TC_004_LoginFailTest - Clicked on login
 16:44:30.324 [main] INFO  testCases.TC_004_LoginFailTest - Browser closed
+17:56:39.193 [main] INFO  testCases.TC_001_AccountRegistrationTest - Chrome Browser started
+17:56:41.889 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************** Starting TC_001_AccountRegistrantionTest ****************
+17:56:42.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - My account clicked
+17:56:43.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - Register clicked
+17:56:43.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - User name entered
+17:56:43.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - Last name entered
+17:56:43.395 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered G-mail
+17:56:43.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password
+17:56:43.469 [main] INFO  testCases.TC_001_AccountRegistrationTest - Checked on privacy policy
+17:56:43.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue button
+17:56:44.852 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed
+17:56:44.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - **************** Completed TC_001_AccountRegistrantionTest ****************
+17:56:45.209 [main] INFO  testCases.TC_001_AccountRegistrationTest - Browser closed
+17:56:46.246 [main] INFO  testCases.TC_002_LoginPageTest - Chrome Browser started
+17:56:49.728 [main] INFO  testCases.TC_002_LoginPageTest - **************** Starting TC_002_LoginPageTest ****************
+17:56:49.779 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on my account
+17:56:50.437 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on login
+17:56:50.613 [main] INFO  testCases.TC_002_LoginPageTest - Enterd email
+17:56:50.676 [main] INFO  testCases.TC_002_LoginPageTest - Enterd password
+17:56:50.708 [main] INFO  testCases.TC_002_LoginPageTest - Clicked on Login
+17:57:01.315 [main] INFO  testCases.TC_002_LoginPageTest - Browser closed
+17:57:02.467 [main] INFO  testCases.TC_003_SearchText - Chrome Browser started
+17:57:05.983 [main] INFO  testCases.TC_003_SearchText - ************ TC_003_SearchText started ************
+17:57:06.055 [main] INFO  testCases.TC_003_SearchText - entered imac text in searchBox
+17:57:07.613 [main] INFO  testCases.TC_003_SearchText - clicked on search
+17:57:07.636 [main] INFO  testCases.TC_003_SearchText - ************ TC_003_SearchText finished ************
+17:57:07.849 [main] INFO  testCases.TC_003_SearchText - Browser closed
+17:57:08.819 [main] INFO  testCases.TC_004_LoginFailTest - Chrome Browser started
+17:57:12.311 [main] INFO  testCases.TC_004_LoginFailTest - **************** Starting TC_004_LoginTestFail ****************
+17:57:12.348 [main] INFO  testCases.TC_004_LoginFailTest - clicked on my account
+17:57:12.915 [main] INFO  testCases.TC_004_LoginFailTest - Clicked on login
+17:57:13.011 [main] INFO  testCases.TC_004_LoginFailTest - Username entered
+17:57:13.062 [main] INFO  testCases.TC_004_LoginFailTest - wrong password entered
+17:57:13.089 [main] INFO  testCases.TC_004_LoginFailTest - clicked on login
+17:57:13.384 [main] INFO  testCases.TC_004_LoginFailTest - alert close
+17:57:13.384 [main] INFO  testCases.TC_004_LoginFailTest - **************** Finished TC_004_LoginTestFail ****************
+17:57:13.641 [main] INFO  testCases.TC_004_LoginFailTest - Browser closed
