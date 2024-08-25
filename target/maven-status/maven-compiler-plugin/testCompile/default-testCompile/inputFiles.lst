@@ -1,12 +1,14 @@
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\pageObjects\AccountRegistrationPage.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\pageObjects\BasePage.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\pageObjects\HomePage.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\pageObjects\LoginPage.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\pageObjects\MyAccountPage.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\testBase\BaseClass.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\testCases\TC_001_AccountRegistrationTest.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\testCases\TC_002_LoginPageTest.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\testCases\TC_003_LoginDataDrivenTest.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\utilities\DataProviders.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\utilities\ExcelUtility.java
-C:\Users\Shaik Rafiuddin\eclipse-workspace\opencart\src\test\java\utilities\ExtentReportManager.java
+C:\Users\ADMIN\git\opencart\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\Users\ADMIN\git\opencart\src\test\java\pageObjects\BasePage.java
+C:\Users\ADMIN\git\opencart\src\test\java\pageObjects\HomePage.java
+C:\Users\ADMIN\git\opencart\src\test\java\pageObjects\LoginPage.java
+C:\Users\ADMIN\git\opencart\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\ADMIN\git\opencart\src\test\java\testBase\BaseClass.java
+C:\Users\ADMIN\git\opencart\src\test\java\testCases\TC_001_AccountRegistrationTest.java
+C:\Users\ADMIN\git\opencart\src\test\java\testCases\TC_002_LoginPageTest.java
+C:\Users\ADMIN\git\opencart\src\test\java\testCases\TC_003_LoginDataDrivenTest.java
+C:\Users\ADMIN\git\opencart\src\test\java\testCases\TC_003_SearchText.java
+C:\Users\ADMIN\git\opencart\src\test\java\testCases\TC_004_LoginFailTest.java
+C:\Users\ADMIN\git\opencart\src\test\java\utilities\DataProviders.java
+C:\Users\ADMIN\git\opencart\src\test\java\utilities\ExcelUtility.java
+C:\Users\ADMIN\git\opencart\src\test\java\utilities\ExtentReportManager.java
