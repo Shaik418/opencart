@@ -33,7 +33,7 @@ public class HomePage extends BasePage
 	
 	@FindBy(id="button-cart") WebElement btnAddtoCart;
 	
-	@FindBy(xpath="//span[normalize-space()='Shopping Cart']") WebElement btnShoppingCart;
+	@FindBy(xpath="//nav[@id=\\\"top\\\"]//div//a[@title=\\\"Shopping Cart\\\"]") WebElement btnShoppingCart;
 	
 	JavascriptExecutor js=(JavascriptExecutor)driver;
 	
@@ -52,11 +52,13 @@ public class HomePage extends BasePage
 	}
 	
 	public void EnterText() {
+		//js.executeScript("arguments[0].value = rb.getString(\"text\");", searchbox);
 		searchbox.sendKeys(rb.getString("text"));
 	}
 	
 	public void ClickSearch() {
-		btnSearch.click();
+		js.executeScript("arguments[0].click();", btnSearch);
+		//btnSearch.click();
 	}
 	
 	
@@ -64,7 +66,8 @@ public class HomePage extends BasePage
 		
 		for(WebElement ele:searchList) {
 			if(ele.getText().equalsIgnoreCase(rb.getString("outputtext"))) {
-				ele.click();
+				js.executeScript("arguments[0].click();", ele);
+				//ele.click();
 				break;
 			}
 		}
@@ -74,11 +77,13 @@ public class HomePage extends BasePage
 	}
 	
 	public void ClickAddtoCart() {
-		btnAddtoCart.click();
+		js.executeScript("arguments[0].click();", btnAddtoCart);
+		//btnAddtoCart.click();
 	}
 	
 	public void ClickShoppingCart() {
-		btnShoppingCart.click();
+		js.executeScript("arguments[0].click();", btnShoppingCart);
+		//btnShoppingCart.click();
 	}
 
 }

@@ -1,5 +1,6 @@
 package testCases;
 
+import org.apache.logging.log4j.Level;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -54,6 +55,10 @@ public class EndToEnd extends BaseClass{
 	//	logger.info("Clicked on logout");
 		
 		}catch(Exception e) {
+			
+			
+			logger.log(Level.FATAL,"Exceptio found was: "+e.getMessage(),e);
+			
 			Assert.assertTrue(false);
 		}
 		logger.info("**************** Finished TC_002_LoginPageTest ****************");
