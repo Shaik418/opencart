@@ -1,5 +1,7 @@
 package pageObjects;
 
+import static org.testng.Assert.assertTrue;
+
 import java.util.List;
 
 import org.openqa.selenium.JavascriptExecutor;
@@ -23,11 +25,15 @@ public class HomePage extends BasePage
 	
 	@FindBy(xpath="//div[@id='search']//button") WebElement btnSearch;
 	
-	@FindBy(xpath="//div[@class='description']//a") WebElement resultText;
+	//@FindBy(xpath="//div[@class='description']//a") WebElement resultText;
 	
-	@FindBy(xpath="//div[@id='product-list']") WebElement resultListMac;
+	//@FindBy(xpath="//div[@id='product-list']") WebElement resultListMac;
 	
 	@FindBy(xpath="//div[@class=\"description\"]//a") List<WebElement> searchList;
+	
+	@FindBy(id="button-cart") WebElement btnAddtoCart;
+	
+	@FindBy(xpath="//span[normalize-space()='Shopping Cart']") WebElement btnShoppingCart;
 	
 	JavascriptExecutor js=(JavascriptExecutor)driver;
 	
@@ -45,11 +51,34 @@ public class HomePage extends BasePage
 		js.executeScript("arguments[0].click();", linkLogin);
 	}
 	
-	public List<WebElement> ListOfElements(){
+	public void EnterText() {
+		searchbox.sendKeys(rb.getString("text"));
+	}
+	
+	public void ClickSearch() {
+		btnSearch.click();
+	}
+	
+	
+	public void ClickSelectedProduct(){
 		
-		return searchList;
+		for(WebElement ele:searchList) {
+			if(ele.getText().equalsIgnoreCase(rb.getString("outputtext"))) {
+				ele.click();
+				break;
+			}
+		}
 		
 		
+		
+	}
+	
+	public void ClickAddtoCart() {
+		btnAddtoCart.click();
+	}
+	
+	public void ClickShoppingCart() {
+		btnShoppingCart.click();
 	}
 
 }

@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_002_LoginPageTest">
+      <class name="testCases.EndToEnd">
         <methods>
           <include name="tearDown"/>
-          <include name="testLogin"/>
           <include name="setup"/>
+          <include name="testEndtoend"/>
         </methods>
-      </class> <!-- testCases.TC_002_LoginPageTest -->
+      </class> <!-- testCases.EndToEnd -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

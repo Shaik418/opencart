@@ -9,10 +9,11 @@
   <test thread-count="5" name="Test">
 	  <parameter name="browser" value="chrome"/>
     <classes>
-    <class name="testCases.TC_001_AccountRegistrationTest"/>
+ 	 <!--	   <class name="testCases.TC_001_AccountRegistrationTest"/>
       <class name="testCases.TC_002_LoginPageTest"/>	
       <class name="testCases.TC_003_SearchText"/>
-      <class name="testCases.TC_004_LoginFailTest"/>					
+      <class name="testCases.TC_004_LoginFailTest"/>		-->
+      					<class name="testCases.EndToEnd"/>
  <!--    <class name="testCases.TC_003_LoginDataDrivenTest"/> 		-->
     </classes>
   </test> <!-- Test -->
