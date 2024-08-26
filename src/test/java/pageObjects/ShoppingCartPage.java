@@ -1,5 +1,6 @@
 package pageObjects;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -13,11 +14,13 @@ public class ShoppingCartPage extends BasePage{
 	
 	@FindBy(xpath="//a[@class='btn btn-primary']") WebElement btnCheckout;
 	
-	
+	JavascriptExecutor js =  (JavascriptExecutor)driver;
 	
 	
 	public void ClickCheckout() {
-		btnCheckout.click();
+		
+		js.executeScript("arguments[0].click();", btnCheckout);
+		//btnCheckout.click();
 	}
 
 }

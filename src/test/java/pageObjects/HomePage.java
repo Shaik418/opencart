@@ -21,7 +21,7 @@ public class HomePage extends BasePage
 	
 	@FindBy(xpath="//a[text()='Login']") WebElement linkLogin;
 	
-	@FindBy(name="search") WebElement searchbox;
+	@FindBy(xpath="//input[@placeholder=\"Search\"]") WebElement searchbox;
 	
 	@FindBy(xpath="//div[@id='search']//button") WebElement btnSearch;
 	
@@ -33,7 +33,7 @@ public class HomePage extends BasePage
 	
 	@FindBy(id="button-cart") WebElement btnAddtoCart;
 	
-	@FindBy(xpath="//nav[@id=\\\"top\\\"]//div//a[@title=\\\"Shopping Cart\\\"]") WebElement btnShoppingCart;
+	@FindBy(xpath="//nav[@id=\"top\"]//div//a[@title=\"Shopping Cart\"]") WebElement btnShoppingCart;
 	
 	JavascriptExecutor js=(JavascriptExecutor)driver;
 	
@@ -52,8 +52,8 @@ public class HomePage extends BasePage
 	}
 	
 	public void EnterText() {
-		//js.executeScript("arguments[0].value = rb.getString(\"text\");", searchbox);
-		searchbox.sendKeys(rb.getString("text"));
+		js.executeScript("arguments[0].value ='mac';", searchbox);
+		//searchbox.sendKeys(rb.getString("text"));
 	}
 	
 	public void ClickSearch() {
@@ -65,7 +65,7 @@ public class HomePage extends BasePage
 	public void ClickSelectedProduct(){
 		
 		for(WebElement ele:searchList) {
-			if(ele.getText().equalsIgnoreCase(rb.getString("outputtext"))) {
+			if(ele.getText().equalsIgnoreCase("macbook")) {
 				js.executeScript("arguments[0].click();", ele);
 				//ele.click();
 				break;

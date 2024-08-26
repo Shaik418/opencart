@@ -13,12 +13,20 @@ public class MyAccountPage extends BasePage{
 	}
 		@FindBy(xpath="//div[@class='list-group mb-3']//a[text()='Logout']") WebElement btnLogout;
 		
-		@FindBy(xpath = "//div[@id='content']//h2[text()='My Account']") // MyAccount Page heading
-		WebElement msgHeading;
+		@FindBy(xpath = "//div[@id='content']//h2[text()='My Account']") WebElement msgHeading;
+		
+		@FindBy(xpath="//div[@id=\"account-account\"]//i") WebElement btnHome;
+		
 		JavascriptExecutor js=(JavascriptExecutor)driver;
 		public void clickLogout() {
 			js.executeScript("arguments[0].click();", btnLogout);
 		}
+		
+		public void ClickHome() {
+			js.executeScript("arguments[0].click();", btnHome);
+		}
+		
+		
 
 		public boolean isMyAccountPageExists()   // MyAccount Page heading display status
 		{

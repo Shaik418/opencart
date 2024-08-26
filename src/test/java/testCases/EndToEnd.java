@@ -19,7 +19,7 @@ public class EndToEnd extends BaseClass{
 		
 		try {
 		HomePage hp = new HomePage(driver);
-	/*	hp.ClickMyaccount();
+		hp.ClickMyaccount();
 		logger.info("Clicked on my account");
 		hp.ClickLogin();
 		logger.info("Clicked on login");
@@ -31,7 +31,10 @@ public class EndToEnd extends BaseClass{
 		lp.setPassword(rb.getString("password"));
 		logger.info("Enterd password");
 		lp.clickLogin();
-		logger.info("Clicked on Login");			*/
+		logger.info("Clicked on Login");	
+		
+		MyAccountPage ma = new MyAccountPage(driver);
+		ma.ClickHome();
 		
 		
 		hp.EnterText();
@@ -56,8 +59,8 @@ public class EndToEnd extends BaseClass{
 		
 		}catch(Exception e) {
 			
-			
-			logger.log(Level.FATAL,"Exceptio found was: "+e.getMessage(),e);
+		// the below logger is to print the exception got while execution	
+		//	logger.log(Level.FATAL,"Exceptio found was: "+e.getMessage(),e);
 			
 			Assert.assertTrue(false);
 		}

@@ -25,7 +25,7 @@ public class LoginPage extends BasePage{
 		
 		 
 		
-		JavascriptExecutor js=(JavascriptExecutor)driver;
+	JavascriptExecutor js=(JavascriptExecutor)driver;
 		//setup sp = new setup();
 		
 		public void setEmail(String email) {
