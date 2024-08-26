@@ -35,7 +35,7 @@ public class EndToEnd extends BaseClass{
 		
 		MyAccountPage ma = new MyAccountPage(driver);
 		ma.ClickHome();
-		
+		logger.info("Clicked on home button");
 		
 		hp.EnterText();
 		logger.info("text entered");
